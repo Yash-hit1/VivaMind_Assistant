@@ -1,0 +1,31 @@
+# Intelligent Personal Assistant
+
+This project implements a simple intelligent personal assistant using Python, speech recognition, and natural language processing.
+
+## Features
+
+- Speech recognition using Google's Speech Recognition API
+- Text processing with NLTK (Natural Language Toolkit)
+- Sentiment analysis using TextBlob
+- Basic command execution (time and weather commands)
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/personal-assistant.git
+   cd personal-assistant
+Install dependencies:
+
+2. Install Dependencies
+
+'''bash
+pip install -r requirements.txt
+
+3. Run the script:
+
+'''bash
+python personal_assistant.py
+
+3. Speak a command and see the assistant in action!
